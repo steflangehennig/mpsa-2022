@@ -51,7 +51,7 @@ extra_css = list(
 ```
 
 # Agenda
-- Motivation
+- Committee Policy Influence
 - Data
 - Trends
 - Conclusions
@@ -59,13 +59,18 @@ extra_css = list(
 ---
 
 class: left, bottom, inverse
-.big[Motivation]
+.big[Committee Policy Influence]
 
 ---
 
 # Committee Policy Influence
 
-something here
+- What is the role and authority of congressional committees in influencing federal policy?
+
+- A measure of how influential each committee is among various issue areas in federal policy over time does not exist
+
+- Using the United States Code, we propose a **_committee influence score_** that gauges the policy influence of
+committees at a more granular level
 
 ---
 
@@ -76,11 +81,21 @@ class: left, bottom, inverse
 
 # United States Code (USC)
 
-something here
+- Comprised of "general and permanent laws of the United States", broadly organized by subject matter into several dozen titles
+
+- Contents of public law are categorized hierarchically using the Statutes at Large compiled at the end of each congressional session
+
+  - Titles, subtitles, chapters, subchapters, sections, etc.
+  
+- Parsed XHTML files provided by the OLRC into provision-level data spanning 1994-2017 (103rd-115th Congresses)
+
+- Used CAP coding scheme at the chapter level to categorize ~60,000 sections within the USC's 54 titles
 
 ---
 
 # Committee Influence Score
+
+- here
 
 ---
 
