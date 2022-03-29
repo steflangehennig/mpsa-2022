@@ -1,9 +1,9 @@
 ---
 title: "Congressional Committee Influence"
 #subtitle: ""
-author: "Ryan Bell, Stefani Langehennig, & E. Scott Adler"
+author: "Ryan Bell, Stefani Langehennig, & Scott Adler"
 institute: "2022 Midwest Political Science Association Conference"
-#date: "`r Sys.Date()`"
+date: "10 April 2022"
 output:
   xaringan::moon_reader:
     css: [xaringan-themer.css, "ninjutsu"]
@@ -51,9 +51,50 @@ extra_css = list(
 ```
 
 # Agenda
-- Review of Linear Regression Basics
-- Review of Multiple Regression
-- The Business Analytics Workflow (or whatever paradigm you subscribe to) in Python 
-- Intro to & Components of Generalized Linear Models (GLMs)
-- W5 Class Task
+- Motivation
+- Data
+- Trends
+- Conclusions
+
+---
+
+class: left, bottom, inverse
+.big[Motivation]
+
+---
+
+something here
+
+---
+
+class: left, bottom, inverse
+.big[Data]
+
+---
+
+something here
+
+---
+
+class: left, bottom, inverse
+.big[Trends]
+
+---
+
+something here
+
+---
+
+class: left, bottom, inverse
+.big[Conclusions]
+
+---
+
+something here
+
+---
+
+class: left, bottom, inverse
+.big[Thank you! Questions?]
+
 
