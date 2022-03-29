@@ -39,7 +39,7 @@ extra_css = list(
     ".remark-slide table" = list("display" = "table",
                    "width" = "80%",
                    "text-align" = "left"),
-    ".remark-slide-number" = list("display" = "none"),
+    ".remark-slide-number" = list("display" = "%current%"),
     ".strong" = list("font-weight" = "400"),
     ".big" = list("font-size" = "350%",
                   "font-family" = "Yanone Kaffeesatz",

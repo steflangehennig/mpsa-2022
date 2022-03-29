@@ -348,7 +348,7 @@ table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
   text-align: left;
 }
 .remark-slide-number {
-  display: none;
+  display: %current%;
 }
 .strong {
   font-weight: 400;
