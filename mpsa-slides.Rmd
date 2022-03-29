@@ -1,0 +1,59 @@
+---
+title: "Congressional Committee Influence"
+#subtitle: ""
+author: "Ryan Bell, Stefani Langehennig, & E. Scott Adler"
+#institute: "Daniels College of Business, Univeristy of Denver"
+#date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    css: [xaringan-themer.css, "ninjutsu"]
+    lib_dir: libs
+    nature:
+      highlightStyle: solarized-light
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_mono_accent(base_color = "#8B0000",
+  header_font_google = google_font("Yanone Kaffeesatz","200","300","400","500","600","700"),
+  text_font_google   = google_font("Roboto", "300", "300i","400","500"),
+  code_font_google   = google_font("Fira Mono"),
+  text_font_size = "125%", 
+  colors = c(
+  red = "#f34213",
+  purple = "#3e2f5b",
+  orange = "#ff8811",
+  green = "#136f63",
+  white = "#FFFFFF",
+  gold = "#FFD700",
+  crimson = "#8B0000"
+),
+extra_css = list(
+    ".remark-slide table" = list("display" = "table",
+                   "width" = "80%",
+                   "text-align" = "left"),
+    ".remark-slide-number" = list("display" = "none"),
+    ".strong" = list("font-weight" = "400"),
+    ".big" = list("font-size" = "350%",
+                  "font-family" = "Yanone Kaffeesatz",
+                  "font-weight"="400"),
+    ".small" = list("font-size" = "80%"),
+    ".large" = list("font-size" = "150%"))
+)
+
+```
+
+# Agenda
+- Review of Linear Regression Basics
+- Review of Multiple Regression
+- The Business Analytics Workflow (or whatever paradigm you subscribe to) in Python 
+- Intro to & Components of Generalized Linear Models (GLMs)
+- W5 Class Task
+
