@@ -63,6 +63,8 @@ class: left, bottom, inverse
 
 ---
 
+# Committee Policy Influence
+
 something here
 
 ---
@@ -72,7 +74,13 @@ class: left, bottom, inverse
 
 ---
 
+# United States Code (USC)
+
 something here
+
+---
+
+# Committee Influence Score
 
 ---
 
@@ -81,7 +89,21 @@ class: left, bottom, inverse
 
 ---
 
+# Policy Areas Attributed to Sections
+
 something here
+
+---
+
+# Distribution of Committee Influence Over Time
+
+figures here
+
+---
+# Distribution of Committee Influence Over Time
+
+table of score comparison here?
+
 
 ---
 
