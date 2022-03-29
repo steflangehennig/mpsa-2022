@@ -2,7 +2,7 @@
 title: "Congressional Committee Influence"
 #subtitle: ""
 author: "Ryan Bell, Stefani Langehennig, & E. Scott Adler"
-#institute: "Daniels College of Business, Univeristy of Denver"
+institute: "2022 Midwest Political Science Association Conference"
 #date: "`r Sys.Date()`"
 output:
   xaringan::moon_reader:
@@ -21,7 +21,7 @@ options(htmltools.dir.version = FALSE)
 
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
 library(xaringanthemer)
-style_mono_accent(base_color = "#8B0000",
+style_mono_accent(base_color = "#2F4F4F",
   header_font_google = google_font("Yanone Kaffeesatz","200","300","400","500","600","700"),
   text_font_google   = google_font("Roboto", "300", "300i","400","500"),
   code_font_google   = google_font("Fira Mono"),
